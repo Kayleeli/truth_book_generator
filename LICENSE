@@ -6,11 +6,29 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+IMPORTANT NOTICE REGARDING CONTENT
+
+This license applies ONLY to the original source code contained in this
+repository.
+
+The textual answer content displayed by this software is derived from the
+following published work:
+
+《神奇的答案之书》
+Author: 张权
+Publisher: 吉林美术出版社
+ISBN: 978-7-5575-4181-1
+
+The answer content is NOT licensed under the MIT License and is provided for
+non-commercial, educational, and demonstrational purposes only.
+
+All rights to the original content remain with the original author and
+publisher.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
